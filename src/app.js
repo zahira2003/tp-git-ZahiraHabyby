@@ -6,3 +6,9 @@ console.log("Feature FF");
 console.log("Feature NO-FF");
 console.log("Squash 1");
 console.log("Squash 2");
+<<<<<<< HEAD
+=======
+console.log("Squash 2");
+console.log('Squash 1');
+console.log('Squash 2');
+>>>>>>> feature/squash-demo
